@@ -1,4 +1,4 @@
-﻿namespace API_Gateway_School_Domain
+﻿namespace API_Gateway_School.Domain
 {
     public class Class1
     {
